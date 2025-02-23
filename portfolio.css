@@ -87,6 +87,7 @@ header {
 #trademark > img {
   width: 5rem;
   height: 5rem;
+  z-index: -1;
   border-style: double;
   border-radius: 3rem;
   color: #020000;
